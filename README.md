@@ -1,6 +1,8 @@
 # Cordova-Hello-World
 Cordova Hello World
 
+[More on cordova.apache.org](https://cordova.apache.org/docs/en/latest/guide/overview/index.html)
+
 ## Run
 ```
 cordova serve
