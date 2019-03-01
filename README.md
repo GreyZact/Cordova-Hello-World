@@ -27,3 +27,15 @@ cordova build osx
 cordova build ios
 cordova build android
 ```
+
+## Troubleshoot
+
+### Linux
+
+No installed build tools found. Install the Android build tools version 19.1.0 or higher.
+
+```
+sudo add-apt-repository ppa:maarten-fonville/android-build-tools
+sudo apt-get update
+sudo apt install android-sdk-build-tools
+```
