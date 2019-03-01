@@ -9,6 +9,11 @@ For DB look at [Lokijs](http://lokijs.org) & [Taffy](http://taffydb.com/).
 cordova serve
 ```
 
+## Build
+```
+cordova build windows --release --prod --arch=x64 --appx=uap
+```
+
 ## Add Platforms
 
 ```
